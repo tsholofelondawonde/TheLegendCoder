@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineer who genuinely cares about writing code that's clean, intentional, and built to last. My world revolves around the **.NET ecosystem** — C#, ASP.NET Core, clean architecture, CQRS with MediatR — but I'm equally at home building out a React/TypeScript frontend or architecting an Azure deployment pipeline from scratch.
+I'm a software engineer who genuinely cares about writing code that's clean, intentional, and built to last. My world revolves around the **.NET ecosystem** — C#, ASP.NET Core and clean architecture, but I'm equally at home building out a React/TypeScript frontend or architecting an Azure deployment pipeline from scratch.
 
 I care about the *why* behind every decision: why this pattern, why this abstraction, why does this feel like it'll hurt us in six months? That instinct for structure is what keeps me reaching for clean architecture even when a flat project would "technically" work.
 
-I run **.NET 10 in production** because staying current isn't optional for me — it's a habit. I build in public because I think the best engineers share what they learn.
+I run **.NET 10 in production** because staying current isn't optional for me,  it's a habit. I build in public because I think the best engineers share what they learn.
 
 Building things with more layers than your average lasagne (on purpose).
 
@@ -53,13 +53,13 @@ Building things with more layers than your average lasagne (on purpose).
 
 ### 🏗️ Clean Architecture Generator
 
-A CLI tool for C# developers that scaffolds a complete clean architecture solution — Presentation, Application, Domain, and Infrastructure layers — wired up and ready to go in seconds.
+A CLI tool for C# developers that scaffolds a complete, clean architecture solution — Presentation, Application, Domain, and Infrastructure layers wired up and ready to go in seconds.
 
 Because the alternative is typing `mkdir` four times and lying to yourself that it won't take longer than that.
 
 > **C# · .NET · CLI · Clean Architecture**
 
-🔗 [View on GitHub]([https://github.com/TheLegendCoder](https://github.com/tsholofelondawonde/clean-architecture)) 
+🔗 [View on GitHub](https://github.com/tsholofelondawonde/clean-architecture) 
 
 ---
 
@@ -67,13 +67,13 @@ Because the alternative is typing `mkdir` four times and lying to yourself that 
 
 My portfolio site is open source and doubles as a proper engineering side project: a fully custom CMS experience built *inside* a Next.js 15 app, powered by Supabase. No third-party CMS subscriptions, no locked-in editors.
 
-Just Postgres, an admin dashboard, draft management, and dynamic blog features — built from scratch, the way I like it.
+Just Postgres, an admin dashboard, draft management, and dynamic blog features built from scratch, the way I like it.
 
 > Because why *use* a CMS when you can *be* the CMS?
 
 > **Next.js 15 · TypeScript · Supabase · Tailwind CSS**
 
-🔗 [tsholofelondawonde.co.za](https://tsholofelondawonde.co.za) &nbsp;·&nbsp; [View Source]([https://github.com/TheLegendCoder/personal-dev-portfolio](https://github.com/tsholofelondawonde/personal-dev-portfolio))
+🔗 [tsholofelondawonde.co.za](https://tsholofelondawonde.co.za) &nbsp;·&nbsp; [View Source](https://github.com/tsholofelondawonde/personal-dev-portfolio)
 
 ---
 
@@ -92,7 +92,7 @@ Just Postgres, an admin dashboard, draft management, and dynamic blog features �
 ## ⚡ Fun Facts
 
 - I run **.NET 10 in production**. Yes, already. No, I'm not sorry.
-- My software architecture has more layers than a good lasagne — and it's just as satisfying.
+- My software architecture has more layers than a good lasagne, and it's just as satisfying.
 - I named my GitHub handle "TheLegendCoder" at some point, and now I have to live up to it every single commit.
 - I built a CMS specifically to avoid using a CMS. The irony is not lost on me.
 - My commit history is basically a diary of me arguing with past-me about folder structure.
